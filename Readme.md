@@ -1,6 +1,6 @@
-# **Echoes of Another World – Full, Easy-to-Understand Version (Updated)**
+# **Echoes of Another World**
 
-Kairo wakes up on a soft meadow, sunlight on his face. He has nothing—no weapons, no tools, and no memory of how he arrived. Yet, a strange certainty fills him: he knows he is here for a reason, even if he can’t remember the details. A faint pulse of purpose drives him forward.
+Kairo wakes up on a unfamiliar place, sunlight on his face. He has nothing—no weapons, no tools, and no memory of how he arrived. Yet, a strange certainty fills him: he knows he is here for a reason, even if he can’t remember the details. A faint pulse of purpose drives him forward.
 
 A glowing fragment of light floats nearby. He can:
 
