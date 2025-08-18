@@ -76,3 +76,78 @@ No matter the path or ending, the story contains a final shocking revelation: Ka
 
 The ultimate question remains: **Will Kairo accept this fake reality or fight to break free?**
 
+
+# *Echoes of Another World – Text-Based Flowchart*
+
+
+    [Prologue: Awakening]
+       |
+       |--Decision: Follow glowing fragment? 
+       |         |
+       |         |--Yes --> [Friend Path: Meet Lyra]
+       |         |             |
+       |         |             |--Mini-Quest: Save Lyra from monster
+       |         |             |       |
+       |         |             |       |--Dialogue Choice:
+       |         |             |       |     1. Help no matter what → Good alignment
+       |         |             |       |     2. Do it yourself → Neutral alignment
+       |         |             |       |     3. Use situation for self → Selfish alignment
+       |         |             |
+       |         |             |--Quest: Village under goblin attack
+       |         |                     |
+       |         |                     |--Decision:
+       |         |                     |     1. Defend villagers → Loyalty + trust
+       |         |                     |     2. Loot villagers → Resources + risk losing trust
+       |         |                     |
+       |         |             |--Meet Companions: Eren & Tomo
+       |         |                     |
+       |         |                     |--Mini-Quest: 
+       |         |                     |     a) Help Eren collect herbs → Knowledge boost
+       |         |                     |     b) Help Tomo escape gang → Trust boost
+       |         |                     |
+       |         |             |--Act 2: Shadowy Figure appears
+       |         |                     |
+       |         |                     |--Decision: Investigate ruins or train?
+       |         |                     |     1. Investigate ruins → Memory clue found
+       |         |                     |     2. Train → Gain skills, but miss clue
+       |         |                     |
+       |         |             |--Moral Crossroads Quest: Village threatened + artifact nearby
+       |         |                     |
+       |         |                     |--Decision:
+       |         |                     |     1. Save villagers → Friend loyalty up
+       |         |                     |     2. Take artifact → Power up, risk losing friends
+       |         |                     |     3. Try both → Partial success, foreshadow Ending 2
+       |         |                     |
+       |         |             |--Act 3: Catastrophe / Final Confrontation
+       |         |                     |
+       |         |                     |--Decision: Prioritize bonds, seek truth, or fail?
+       |         |                     |     1. Prioritize bonds → [Ending 1: Hero of Bonds]
+       |         |                     |     2. Seek the truth → [Ending 2: Seeker of Truth]
+       |         |                     |           (friends die, cannot defeat experimenter, alone)
+       |         |                     |     3. Critical failure → [Ending 3: Tragic Death]
+
+       |--No --> [Lone Wanderer Path: Never meet friends]
+                     |
+                     |--Act 1: Survival Alone
+                     |       |
+                     |       |--Mini-Quest: Hunt/Gather for food
+                     |       |--Mini-Quest: Find or build shelter
+                     |       |--Mini-Quest: First combat trial
+                     |
+                     |--Act 2: Isolation and Power
+                     |       |
+                     |       |--Decision: Seek Power or Peaceful Living?
+                     |       |     1. Power → Learn forbidden magic, risk sanity
+                     |       |     2. Peace → Weak survival path
+                     |       |
+                     |       |--Optional Side Quests:
+                     |       |     a) Discover ancient ruins → hints of memory manipulation
+                     |       |     b) Encounter mysterious NPC → tease real world reality
+                     |
+                     |--Act 3: Shadowy Figure Confrontation Alone
+                             |
+                             |--Decision: How to respond?
+                             |     1. Power-Seeker → [Ending 4A: Power Alone, feared ruler]
+                             |     2. Peace-Seeker → [Ending 4B: Tragic Isolation]
+                             |     3. Meta / Awareness → [Ending 4C: Awareness of Memory Manipulation]
+
